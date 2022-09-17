@@ -18,3 +18,6 @@ npm install --save body-parser
 
 npm install --save ejs
 //Instar o ejs
+
+//Executar projeto
+nodemon index.js
